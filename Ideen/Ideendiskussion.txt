@@ -1,1 +1,65 @@
-Tim: 
+Tim:
+Man könnte zum Beispiel ein RPG á la Skyrim machen (in schlechterer Qualität)
+Die Frage ist: Ernst oder nicht so ernst?
+Mir wäre auf jedenfall beides recht :)
+
+Flo:
+gerne schon ernst. Frage ist ja auch ob man eine Story entwickelt die das ganze besonders macht.
+Sachen wie " du bist Held xy, finde den "Turm" !" ist halt nix wirklich neues.
+Und von der Aufmachung her dachte ich, wenn 3D dann mit eigenen low-poly sachen,
+so etwa im look von "Virginia" (Hoffe ich habs richtig geschrieben).
+
+
+Tim:
+Das wäre auf jedenfall ziemlich cool. Low poly Grafik kann richtig gut aussehen. 
+Und mit einer fesselnden Story brauchen wir auch kein großes Gameplay. Dann wäre natürlich die Frage, was für ein Genre man nimmt.
+
+Anmerkung: Ich würde die Commitmessages nach folgendem Schema halten: " <Name> | <Commit Nachricht> "
+
+Flo:
+Koennen wir gerne machen. Wobei mein erster Gedanke war, dass wir ja eigentlich ein ueberschaubarer Haufen an Team-kollegen bleiben werden - und unsere Gitnamen ja eigentlich untereinander kennen. Und diese stehen ja immer mit am Commit.
+
+Back2Topic: Das Problem an einer fesselnden Story ist genau das, die originelle und fesselnde Story!
+Vom kreativen Schreiben weiß ich, dass man recht schnell alte Muster wiederholt oder in Stereotypen abrutscht. Dazu kommt die
+Herausforderung einen Spannungsbogen aufrecht zu erhalten. Und das ganze noch nachvollziehbar realistisch zu gestalten.
+Stichwort: Kausalität. Das heißt, alle Ereignisse der Geschichte sollten kausal zusammenhängen. In einer guten Geschichte
+passiert nichts, was sich nicht aus dem Vorhergehenden ergibt.
+Hauptkonflikt, Personen und Dialoge müssen für eine gute Story zusammenspielen, genau wie Setting und Feeling.
+
+Aber sooo extrem und ernst wie ich das hier darstelle brauchen wir uns darum eigentlich keine Gedanken zu machen. Wenn wir uns
+zusammensetzten und eine simple, aber durchdachte (witzige/tragische/verwirrende?) Geschichte basteln, reicht das für uns MS'ler
+sicher. Hauptaufgabe sollte natürlich die technisch einwandfreie und gut durchstrukturierte Umsetzung darstellen.
+[Vor Allem wenn wir als Story eh sowas nehmen wie "Als Obdachloser in HH klarkommen", und das in Low-Poly umsetzten um mehr
+Aufmerksamkeit für Flaschensammler und Alkoholiker erzeugen zu wollen.] XD
+
+Tim:
+Hast Recht. Dann kack drauf :) 
+
+Klingt erstmal sehr nach Alpers Feedback xD Aber du hast recht. Ich denke jedoch trotzdem, dass wir zusammen eine gute Story hinkriegen werden. Die Thematik ist dabei auch sehr wichtig. Vielleicht sollten wir erstmal ein Setting wählen oder so? Sowas wie: Space, die 50er, Polizei shit, politik, Nature, Fantasy. Also irgendwie so grob. 
+Gibt es irgendwas worauf ihr total Bock hättet?
+
+Flo:
+War Sa+So nicht in HH, daher schreib ich jetzt erst.
+
+Kann aufjeden Fall sagen, dass ich gegen Politik bin :) Wobei das ja auch nur ein Grenzbereich eines Settings ist.
+(z.b. Politik in den 50ern, Politik in Space, usw).
+Habe mir bisher noch nicht viele Gedanken zum Setting gemacht. Merke aber, dass ich bei jedem Stichwort sofort an 1-3 Games
+aus dem Bereich denke. Was aber ja auch nicht verkehrt sein muss. 
+Wie wäre es wenn wir das Brainstorming nach dem Setting und der groben Story live unter 6 Augen machen würden?
+Ist einfach interaktiver und hilft uns schneller Dinge auszugrenzen oder hervorzuheben!
+Vielleicht Mittwoch um 12uhr?
+
+Tim:
+No problemo :)
+
+Ja wir sollten das einfach mal besprechen. Mittwoch arbeite ich bis 12, das heißt ich bin erst zur Vorlesung da. 
+Danach könnten wir drüber reden :)
+
+FLo:
+Nochmal wegen "SuperHot" - es ist ja nciht nur das Design was das Game besonders macht, sondern vorallem das Feature,
+dass die Zeit nur vergeht wenn man sich bewegt :] 
+Wenn wir uns so ein spezial-feature einfallen lassen welches gut durchdacht und spieltechnisch sinnvoll ist, dann
+wär die Story zweitrangig. Gibt halt verschiedene Wege zu einem guten Spiel.
+
+Tim:
+^This. Sehe ich genauso. Aber für ein cooles Feature bräuchten wir zuerst ein Genre/grobe Story. Denn wenn wir das haben, können wir uns ein cooles Feature einfallen lassen, dass zu diesem Genre passt :) 

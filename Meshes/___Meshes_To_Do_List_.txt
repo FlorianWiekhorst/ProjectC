@@ -1,0 +1,88 @@
+﻿
+Auflistung aller benoetigten Meshes:
+(Sollte nach belieben erweitert werden - und 
+ fertige Dinge in den BearbeitungsAbsatz verschieben!)
+
+
+
+>>> NPCs
+	>Blanko_Human_Male
+	>Blanko_Human_Female
+		> Polizei
+		> Penner
+		> Passanten
+	
+>>> Tiere
+	> Hunde
+	> Voegel
+	> Ratten
+
+>>> Welt
+	> Muelltonnen (vor Haeusern an der Strasse stehend)
+	> Strassenlaternen
+	> Strassenschilder
+	> Ampeln
+	> Zaeune
+	> PKWs
+	> LKWs/Busse
+	> Baeume & Straeucher
+	> Wolken & Regen
+	> Haeuser (Reihenhaeuser/Wohnblock)
+	> Litfasssaeule
+	> Stromkasten
+	> Fahrradstaender
+	> Blumenbeete
+	> Springbrunnen
+	> (politische) Wahlschilder (vlt auch sarkastisch "Jeder bekommt ein Zuhause - CDU")
+	> Baustellen (Container/Absperrungen/Bauzaun)
+	> Dixi-Toilette
+	> Altpapier- und AltglasContainer
+	> AltkleiderBox
+	> Telefonzelle (Man, that's so 1996^^)
+	> Zigarettenautomat
+	> Parkanlage
+	> Denkmal
+	> gelbe Säcke (vlt direkt als Haufen)
+	> Kinderspielplatz
+	> ...
+	
+>>> Objekte
+	> Arme des Characters (!)
+	> Pfandflaschen & Dosen
+	> Waffen (Flasche/Stock/Messer/etc)
+	> Beutel
+	> Lebensmittel
+	> Geld?
+	> Fahrrad
+	> Regenschirm (NPCs/Charakter)
+	> Einkaufwagen (Inventarerweiterung?)
+	> ...
+	> ...
+	
+
+######################
+ IN BEARBEITUNG : VON
+######################
+
+	> >Blanko_Human_Male : Florian
+	> Muelleimer (an Laternen/auf Metallstuetzen) : Florian
+	> Bushaltestellen : Florian
+	> Pfandautomat (im Supermarkt) : Florian
+	> Pistole : Tim
+
+######################
+ FERTIGE MESHES : VON
+######################
+
+	> Parkbank : Tim
+	> Stopschild: Tim
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	

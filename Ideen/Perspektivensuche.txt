@@ -1,0 +1,36 @@
+
+Vor- und Nachteile der unterschiedlichen Perspektiven: (Vergleich: FirstPerson & ThirdPerson):
+
+### First Person ###
+---First Person Pro's:
+	- Verstärktes hineinversetzen in die Hauptfigur ("feeling directly in the game")
+	- weniger Blenderaufwand, da kein kompletter Hauptcharakter gestaltet, gerigged und animiert werden muss
+	- Viele "Animationen" sind (fast) nur Kameraver�nderungen (blinzeln,husten,vergiftet worden sein,etc)
+	- Einfachere Kameraführung und Raycast
+	- ...
+	
+---First Person Con's:
+	- gerade bei charakterstarken Figuren m�chte man diese u.U. sehen, um eine bessere Bindung zu ihnen aufzubauen
+	- Cutscenes?
+	-  
+	- ...
+
+####################
+
+
+### Third Person ###
+---Third Person Pro's:
+	- besseres "kennenlernen" der Figur (Gesichtsausdr�cke, Bewegungen,etc) durch Distanz/Beobachten
+	- Bessere Sicht, da Sichtbereich größer
+	- ...
+	
+---Third Person Con's:
+	- u.U. mehr Distanz zwischen Spieler und Figur
+	- man braucht viel mehr Animationen (z.b. Erklimmen einer Kante, schwimmen, etc)
+	- höherer Blenderaufwand, da ein kompletter Hauptcharakter gestaltet, gerigged und animiert werden muss <- Ist doch ein 'Con'
+	- ...
+
+####################
+
+
+	

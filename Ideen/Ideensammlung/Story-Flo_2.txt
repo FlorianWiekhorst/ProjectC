@@ -1,0 +1,170 @@
+﻿==========================================
+DIESE STORY IST UNSERE MAINSTORY
+==========================================
+
+
+Grundidee: Obdachloser in einer modernen Grossstadt.
+
+Man spielt einen obdachlosen Flaschensammler der sich irgendwie durchschlagen muss.
+Diebstahl? polizei/Knast? (Moeglichkeit im Supermarkt zu klauen, oder woanders)
+Kampf gegen andere Obdachlose? Moeglichkeiten seinen Schlafplatz, Waffen, usw upzugraden?
+Betteln als Minispiel?
+Egoperspektive in einer Low-Poly Welt?
+Drogenrausch?
+
+Ziel des Spieles?
+
+Der Vollstaendigkeitshalber hier nochmal die QuestionList:
+####
+Which continents does this world have? - 1 Big City
+ Which cities are there?  - ^-
+ Who lives here? rich and poor people, and a few animals
+ Are there interesting landmarks? - intressting points inside the city (Marktplatz, Ubahn, Supermarkt,...)
+ What could spawn conflict in this world? - Police and other People(Other Homeless guys/girls, but also normal People)
+ How did the nations come to their current form? evolution.. <- Lol
+
+ Do people have enough resources? (food, water, wood etc) - some yes, you don't.
+ What technologies exist? (magic? teleportation?) - Fistfight, Bottles, animals?
+ ####
+ 
+
+ ===Tim===
+ Cool wäre es ja wenn man quasi die Backstory des Obdachlosen aufarbeiten muss. Also wenn man während des Spielens erfährt wie er
+ obdachlos geworden ist und so :+1:
+ 
+ ==Flo 09.Nov.2016==
+ Sehr gute Idee.
+ 
+ Zusätlich aus der Teamsitzung:
+  - Karmapunkte System
+  - Bedürfnisse(Harndrang, Hunger/Durst, Energie etc...)
+  - Tag und Nachtwechsel?
+  - Definitiv Polizei
+  - Haustier? Elefant?
+  - Waffen
+  - Alkohol
+  - Kleidung/Outfits?
+  - Skilltree
+  
+  
+  Ergänzende Einfälle:
+  
+  Setzen wir eine maximale Anzahl an Polygonen pro Objekt/Mesh fest?
+  Oder unterscheiden wir da je nach bedarf?
+  (macht vielleicht Sinn einigen hauptdingen mehr zu geben, als anderen)
+
+Tim
+---> Also ich bin dafür, da eine festgesetzte Polygonanzahl verhindert das unsere Meshes mega unterschiedlich aussehen
+  
+  Da ja u.U. jeder ein paar Objekte erstellt:
+  Setzen wir vorher gemeinsame Einstellungen in Blender fest?
+  Nich das einer alles winzig oder riesig baut und das nach dem Scalieren komisch aussieht oder sowas.
+
+Tim
+---> Generell ja, aber man sieht ja wenn etwas komisch aussieht in Unity und kann das dementsprechend skalieren. Ansonsten gerne drüber reden
+  
+  Verwenden wir eine Farbpalette?
+  Um einheitliche/zusammenpassende Objekte zu erschaffen?
+  Oder sagen wir nur einer kümmert sich um die Texturen und der stimmt das dann aufeinander ab?
+  
+Tim 
+---> Also eine allgemeine Farbpalette festlegen macht durchaus Sinn m.M.n. Wir können ja die Meshes mal aufteilen :) 
+Und wenn man mit einem Mesh anfängt sollte man seinen Namen dahinter schreiben um Redundanzen zu vermeiden :)
+
+=== Flo 10.Nov.2016 ==
+Ja, oder wir haben noch ein Absatz "In Bearbeitung:" wo man dann Mesh_Namen und Bearbeiter einträgt.
+z.B.:  Einkaufswagen [Florian]
+
+Desweitern dachte ich an ein 'Negativ-Neutral-Positiv' - Beziehungssystem zu anderen Obdachlosen.
+Das man Beziehungen verbessern und verschlechtern kann.
+
+Eventuel auch durch ein Questsystem:
+ > Bringe John ein Sixpack
+ > Hilf Jill vor dem streunernden Hund
+ > Marco will das du John ne Abreibung verpasst
+ > ...
+ 
+Und ich dachte es wäre gut, dass es mehr als nur einen Supermarkt gibt.
+Also noch einen "Tante-Emma"-Laden an der Ecke oder so.
+Wenn man sonst bei einem Hausverbot für 14 Tage hat, kann man in der Zeit
+unter Umstaenden zuwenig machen? 
+
+Ist auch die Frage wie ein MiniSpiel für das Betteln aussehen könnte?
+eine Art geschicklichkeit-Spiel, dass vlt von deinen statuswerten beeinflusst wird?
+z.b. im richtigen Moment klicken, wenn ein Balken so nah wie möglich an 100% ist, 
+um Mitleid bei Passanten auszulösen und so Geld gespentet zu kommen.
+Der Wert "Rest-Alk" oder Ähnliches könnte dann dafür sorgen, dass der Balken
+stärker 'Springt', und das timming erschwert.
+
+
+
+
+
+=== Tim 10.Nov.2016 ===
+Beziehungssystem finde ich gut. Und so Sidequests finde ich auch super. Die können sich ja auch wiederholen. 
+Und je nach Quests kann sich dein Karma verändern:
+
+"Stich Peter ab und klau sein Geld" - Evil
+"Finde einen neuen Schlafplatz für Mary" - Good
+usw.
+
+Ja, also ich dachte eigentlich auch das es mehrere gibt. Wie in GTA mit den Läden halt. 
+Und auch nicht nur kleine Supermärkte sondern auch Tankstellen etc.
+
+Das mit dem Betteln kann ja durch deine "Skills" geregelt werden. Also mehr Charme = größere Chance | Gestank = weniger Chance etc.
+
+
+
+ ==Flo 18.Nov.2016==
+
+ Klingt gut.
+ 
+ Habe mir nochmal gezielt Gedanken zur Spielwelt gemacht.
+ Eine feste Stadt gefaellt mir besser als eine Generierte.
+ Frage ist dann wie Gross wie die planen, und wie genau diese aussehen wuerde.
+ (Bei jeder folgenden Frage sollten wir ueberlegen wie sinnvoll oder bereichernd das fuer das Spiel waer)
+ 
+>> Aufbau der Stadt?
+
+Verteilung von Land zu Wasser?
+Seen/Flüsse?
+
+Höhenunterschiede innerhalb der Stadt?
+Berge/Hügel/Täler?
+
+Belebte Zonen und verwilderte Randgebiete?
+Wochenmarkt? Einkaufspassage?
+Stillgelegtes Industriegebiet?
+
+Angrenzende Naturgebiete?
+Wald? Berge? 
+
+Skyline der Stadt?
+Was sind die größten Gebäude?
+Gibt es soetwas wie einen Fernseh-/Funkturm?
+
+Gibt es einen Flughafen? Bahnhof für Fernzüge?
+Eine U/S-Bahnlinie? Buslinie/n?
+
+=== Tim 21.Nov 2016 ===
+
+ja auf jedenfall eine feste Stadt! 
+
+Also das Problem was auch Maik gesagt hat ist, dass wir viele verschiedene Gebäude brauchen, weil sonst die stadt überall gleich aussieht, und
+man nicht mehr wirklich weiß wo man eigentlich ist.
+Als erstes würde ich sagen wir konzentrieren uns auf die Stadt selbst, sprich Gebäude und Läden und Storyrelevante Dinge. Dann 
+kann man immernoch gucken was man brauch. Aber alleine durch die Story sollte was an Orten dazu kommen :)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
